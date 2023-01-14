@@ -524,6 +524,7 @@ mod seven {
 
 // The ?Sized means we can opt out from the implicit size requirement
 // for example, when we store a Box
+// Sized means type O needs to have a size at compile time
 pub struct Flatten<O: ?Sized>
 where 
     O: Iterator,
