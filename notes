@@ -1,0 +1,24 @@
+/* 
+In std::cell
+impl<T> Cell<T>
+where
+    T: copy
+pub fn get(&self) -> T
+
+Get does not return a reference to the item inside!
+If there is not way to get a pointer to the item inside,
+then it is always safe to mutate it. 
+Generally use cell for types which are cheap to copy
+
+Cell does not implement Sync,
+which means if you have reference to self, you cannot give 
+away that reference to a different thread
+
+Classic example of usage areas for cell:
+Thread locals
+*/
+
+/* std::borrow::Cow
+Use this when most of the time, you are reading but every once in a while
+you need to write
+*/
