@@ -9,6 +9,7 @@
 
 // Cell is Send but not Sync
 // Cell does not give out references to the inner type (check the API)
+// Cell is useful when doing graphs
 
 struct Rc<T> {
     inner: *mut Inner<T>,
