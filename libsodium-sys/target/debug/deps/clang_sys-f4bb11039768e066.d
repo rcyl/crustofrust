@@ -1,0 +1,14 @@
+/home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/deps/clang_sys-f4bb11039768e066.rmeta: /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.1/src/lib.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.1/src/support.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.1/src/link.rs /home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/build/clang-sys-8a726e4e6908fb51/out/macros.rs /home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/build/clang-sys-8a726e4e6908fb51/out/common.rs /home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/build/clang-sys-8a726e4e6908fb51/out/dynamic.rs
+
+/home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/deps/libclang_sys-f4bb11039768e066.rlib: /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.1/src/lib.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.1/src/support.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.1/src/link.rs /home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/build/clang-sys-8a726e4e6908fb51/out/macros.rs /home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/build/clang-sys-8a726e4e6908fb51/out/common.rs /home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/build/clang-sys-8a726e4e6908fb51/out/dynamic.rs
+
+/home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/deps/clang_sys-f4bb11039768e066.d: /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.1/src/lib.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.1/src/support.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.1/src/link.rs /home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/build/clang-sys-8a726e4e6908fb51/out/macros.rs /home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/build/clang-sys-8a726e4e6908fb51/out/common.rs /home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/build/clang-sys-8a726e4e6908fb51/out/dynamic.rs
+
+/home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.1/src/lib.rs:
+/home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.1/src/support.rs:
+/home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.1/src/link.rs:
+/home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/build/clang-sys-8a726e4e6908fb51/out/macros.rs:
+/home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/build/clang-sys-8a726e4e6908fb51/out/common.rs:
+/home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/build/clang-sys-8a726e4e6908fb51/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/build/clang-sys-8a726e4e6908fb51/out

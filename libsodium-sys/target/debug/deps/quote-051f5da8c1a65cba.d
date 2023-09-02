@@ -1,0 +1,13 @@
+/home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/deps/quote-051f5da8c1a65cba.rmeta: /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/lib.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ext.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/format.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ident_fragment.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/to_tokens.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/runtime.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/spanned.rs
+
+/home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/deps/libquote-051f5da8c1a65cba.rlib: /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/lib.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ext.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/format.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ident_fragment.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/to_tokens.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/runtime.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/spanned.rs
+
+/home/ulap/tutorial/rust/crustofrust/libsodium-sys/target/debug/deps/quote-051f5da8c1a65cba.d: /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/lib.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ext.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/format.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ident_fragment.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/to_tokens.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/runtime.rs /home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/spanned.rs
+
+/home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/lib.rs:
+/home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ext.rs:
+/home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/format.rs:
+/home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ident_fragment.rs:
+/home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/to_tokens.rs:
+/home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/runtime.rs:
+/home/ulap/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/spanned.rs:

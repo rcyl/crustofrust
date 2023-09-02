@@ -1,0 +1,2 @@
+cargo:warning=blabla
+cargo:include=foo

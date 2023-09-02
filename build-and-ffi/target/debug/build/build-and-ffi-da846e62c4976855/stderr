@@ -1,0 +1,3 @@
+[build.rs:6] std::env::var("OUT_DIR") = Ok(
+    "/home/ulap/tutorial/rust/crustofrust/build-and-ffi/target/debug/build/build-and-ffi-da846e62c4976855/out",
+)
