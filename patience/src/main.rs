@@ -107,7 +107,7 @@ fn main() {
                     }
                     // The branch is here because something needs to await on all the futures stored in connections
                     // NOTE: this is just one one top level future served by one thread! Othter threads can't help out
-                    // Solution below, using tokio sapwn
+                    // Solution below, using tokio spawn
                     _ <- (&mut connections).await => {}
                 }
             }
@@ -116,7 +116,7 @@ fn main() {
         let runtime = tokio::runtime::Runtime::new();
         runtime.block_on(async {
             let mut accept = tokio::new::TcpListener::bind("0.0.0.0.8080");
-            while let Ok(stream) = accept.wait {
+            while let Ok(stream) = accept.await {
                 // spawn is a hook into the executor, used to pass future to runtime
                 // so runtime has two futures, the original one in block_on()
                 // and the one for returned from handle_connection and now 
