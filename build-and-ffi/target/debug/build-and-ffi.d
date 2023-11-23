@@ -1,1 +1,0 @@
-/home/ulap/tutorial/rust/crustofrust/build-and-ffi/target/debug/build-and-ffi: /home/ulap/tutorial/rust/crustofrust/build-and-ffi/build.rs /home/ulap/tutorial/rust/crustofrust/build-and-ffi/src/main.rs
